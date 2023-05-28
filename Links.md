@@ -1,6 +1,6 @@
-## ItzMapz Links
+# ItzMapz Links
 
-# Blender - Free add-ons
+## Blender - Free add-ons
 - Asset Creation Toolset [Gumroad](https://gumroad.com/l/hPXIh)
 - UVSquares [GitHub](https://github.com/Radivarig/UvSquares)
 - Sollumz [GitHub](https://github.com/Skylumz/Sollumz)
@@ -16,7 +16,7 @@
 - UV Layout | Built in Blender
 - Copy Attributes Menu
 
-# Blender | [Paid Add-ons](https://blendermarket.com/?ref=378) *(Affiliate Links)*
+## Blender | [Paid Add-ons](https://blendermarket.com/?ref=378) *(Affiliate Links)*
 - Asset Sketcher - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378)
 - BPainter - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378)
 - Collider Tools - [BlenderMarket](https://blendermarket.com/creators/matthias-patscheider?ref=378)
