@@ -1,4 +1,4 @@
-## [ItzMapz Links]
+ItzMapz Links
 
 ## Blender - Free add-ons
 - Asset Creation Toolset [Gumroad](https://gumroad.com/l/hPXIh)
